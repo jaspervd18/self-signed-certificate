@@ -1,6 +1,4 @@
-/mydomain.com.crt
-/mydomain.com.csr
-/mydomain.com.key
-/rootCA.crt
-/rootCA.key
-/rootCA.srl
+/*.crt
+/*.csr
+/*.key
+/*.srl
